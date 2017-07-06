@@ -13,3 +13,4 @@
 * mint - buy tokens (ether)
 * addSomeTokens - issue additional tokens (if allowManualTokensGeneration == true)
 
+(c) https://stocks.exchange
